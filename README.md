@@ -1,3 +1,5 @@
+# Liver & Liver Tumor Segmentation with U-Net (3D CT)
+
 <p align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ5q0HW1gRLwAE6hxmp3tfqo1ROw3gQmFkfQ&s" 
        alt="Liver Segmentation" 
@@ -5,7 +7,6 @@
 </p>
 
 
-# Liver & Liver Tumor Segmentation with U-Net (3D CT)
 
 This notebook explores ** liver and liver tumor segmentation**
 on 3D CT data using  **U-Net convolutional neural network**.
