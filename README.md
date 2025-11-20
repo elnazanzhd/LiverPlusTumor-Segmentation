@@ -1,6 +1,9 @@
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ5q0HW1gRLwAE6hxmp3tfqo1ROw3gQmFkfQ&s" 
+       alt="Liver Segmentation" 
+       width="500">
+</p>
 
-![Liver
-Segmentation](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ5q0HW1gRLwAE6hxmp3tfqo1ROw3gQmFkfQ&s)
 
 # Liver & Liver Tumor Segmentation with U-Net (3D CT)
 
